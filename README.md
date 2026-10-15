@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vafidev
+# VAFIDEV
 
 **Backend Engineer · FastAPI · Distributed Systems · High-Load Architecture**
 
