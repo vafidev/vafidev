@@ -59,7 +59,6 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vafidev&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true)](https://github.com/vafidev)
 [![Streak](https://streak-stats.demolab.com/?user=vafidev&theme=dark&hide_border=true&background=0D1117)](https://github.com/vafidev)
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=vafidev&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/vafidev)
 
